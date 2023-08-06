@@ -1,0 +1,11 @@
+Aprel
+1_IELTS
+a)Listening
+b)Speaking 
+2_Dasturlash
+a)Excel
+b)SQL server
+c)Power BI
+d)Python
+f)SSIS
+My SQL ,Oracle
